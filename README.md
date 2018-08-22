@@ -5,5 +5,5 @@ Agile style.
 
 ## TODOs:
 
-1. Wait for season kick off
-2, Work hard
+1. Wait for season kick off /n
+2. Work hard
