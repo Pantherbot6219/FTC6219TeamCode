@@ -1,0 +1,5 @@
+In order to map the input from the joy stick into the power output of the motor,
+We may use the function
+                y = 1.1*arctan(x)+0.06
+This should give a relatively faster start than y = x, yet slowing down at the end, so the driver can quickly reach a high speed but not too fast
+on the end that they will loose control.
